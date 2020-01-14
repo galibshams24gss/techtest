@@ -1,0 +1,83 @@
+html { 
+    overflow-y: auto;
+}
+
+#app {
+    background-color: #000000;
+}
+
+/* input styles */
+input:focus { 
+    outline: none;
+    border-radius: 10px;
+}
+
+/* buttons */
+.v-btn {
+    height: 22px;
+    font-size: 14px;
+    padding: 0 8px;
+}
+
+.v-btn--small {
+    height: 20px;
+    font-size: 12px;
+    padding: 0 4px;
+}
+
+.v-btn--large {
+    height: 24px;
+    font-size: 16px;
+    padding: 0 16px;
+}
+
+/* inputs */
+/* .v-text-field {
+    margin-top: 3px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 3px;
+    border: groove;
+    border-radius: 5px;
+}
+
+.v-input__control > .v-input__slot {
+    height: 20px;
+}
+
+.v-text-field__slot, .v-select__slot {
+    margin-bottom: 10px;
+}
+
+.v-label--active {
+    display: none;
+}
+
+.v-input input {
+    font-size: 0.8em;
+}
+
+.v-input .v-label {
+    font-size: 0.8em;
+} */
+
+/* scrollbar */
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
