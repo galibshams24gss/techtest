@@ -19,7 +19,7 @@
     "es6-promise": "^4.2.6",
     "highcharts": "^6.1.1",
     "highcharts-vue": "^1.2.0",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.5.1",
     "jspdf-autotable": "^3.0.0-alpha.3",
     "video.js": "^7.3.0",
     "vue": "^2.5.2",
